@@ -58,7 +58,7 @@ The objective of this homework assignment is to introduce students to **template
 
 1. **Scale and Rotation Invariance**:
    - Discuss how template matching can be extended to handle scale and rotation variations.
-   - Explore other methods (e.g., normalized cross-correlation](https://xcdskd.readthedocs.io/en/latest/cross_correlation/cross_correlation_coefficient.html)) that are more robust to such variations.
+   - Explore other methods (e.g., [normalized cross-correlation](https://xcdskd.readthedocs.io/en/latest/cross_correlation/cross_correlation_coefficient.html)) that are more robust to such variations.
 
 2. **Performance Optimization**:
    - Investigate ways to optimize the template matching process (e.g., using [integral images](https://levelup.gitconnected.com/the-integral-image-4df3df5dce35) or FFT-based methods).
