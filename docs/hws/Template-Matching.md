@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Template Matching
-nav_order: 2
+parent: Home Works
+nav_order: 1
 ---
 
 #  Template Matching
