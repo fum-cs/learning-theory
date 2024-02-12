@@ -18,10 +18,9 @@ nav_order: 2
     
 **HW1**{: .label .label-red }[Template Matching from Scrach](./hws/Template-Matching), due date: 1402/11/27
 
-
 **Further Reading**{: .label .label-yellow }
-: [Some published papers](https://fumcs.github.io/projects/computer-vision/)
-* [الگوریتم مجارستانی - ویکی‌پدیا، دانشنامهٔ آزاد (wikipedia.org)](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D9%85%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C)
+
+[Some published papers](https://fumcs.github.io/projects/computer-vision/)
 
 ### Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  

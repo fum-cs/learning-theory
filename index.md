@@ -66,11 +66,11 @@ Let's embark on this exciting journey of learning theory together! 🌟
 
 ## Class time and Location
 
-Suturday and Wednesday 8:00-9:40* (Spring 2024), Room 10.
+Suturday and Monday 8:00-9:40 (Spring 2024), Room 10.
 
 ## References
 
-This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
+Some of the used resources are:
 
 - [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr., 2021 (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
 - [Pattern Recognition](https://darmanto.akakom.ac.id/pengenalanpola/Pattern%20Recognition%204th%20Ed.%20(2009).pdf), by Sergios Theodoridis  and Konstantinos Koutroumpas, 2009
