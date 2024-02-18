@@ -16,12 +16,15 @@ nav_order: 2
 - Github: [Tutorial for Image Processing in Python](https://github.com/zengsn/image-processing-python) by Shaoning Zeng 
 - Book: [Image processing tutorials](https://github.com/yg42/iptutorials/blob/master/book/tutorials_python.pdf)
     
-**HW1**{: .label .label-red }[Template Matching from Scrach](./hws/Template-Matching), due date: 1402/11/27
+**HW1**{: .label .label-red }[Template Matching from Scrach](./hws/Template-Matching), due date: 1402/12/03
 
 **Further Reading**{: .label .label-yellow }
 
 [Some published papers](https://fumcs.github.io/projects/computer-vision/)
 
+## GitHub Pages
+
+**HW2**{: .label .label-red }[Create your own GitHub page](./hws/GitHub-Pages), due date: 1402/12/04
 
 ## Regression & Neural Networks
 
