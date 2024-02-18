@@ -19,6 +19,10 @@ nav_order: 20
 * [Mahalanobis Distance – Understanding the math with examples (python)](https://www.machinelearningplus.com/statistics/mahalanobis-distance/)
 
 
+### Image Matting
+- Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
+
+
 ## 1402 Winter
 ### <a name="L11"></a>Kernel Method
     

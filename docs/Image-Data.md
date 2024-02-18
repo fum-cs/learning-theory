@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Image Data
+title: Lectures
 description: Listing of course modules and topics.
 mathjax: true
 nav_order: 2
@@ -22,6 +22,7 @@ nav_order: 2
 
 [Some published papers](https://fumcs.github.io/projects/computer-vision/)
 
-### Image Matting
-- Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
+## Regression & Neural Networks
+
+* See [this Jupyter-book](https://fum-cs.github.io/neural-networks) about Neural Networks
