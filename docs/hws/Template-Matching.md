@@ -3,6 +3,7 @@ layout: default
 title: Template Matching
 parent: Home Works
 nav_order: 1
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 ## Table of contents
