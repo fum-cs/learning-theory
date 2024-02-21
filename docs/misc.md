@@ -4,6 +4,7 @@ title: TBA
 description: Listing of course modules and topics.
 mathjax: true
 nav_order: 20
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 # TBA
