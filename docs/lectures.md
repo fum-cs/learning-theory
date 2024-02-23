@@ -6,6 +6,15 @@ mathjax: true
 nav_order: 2
 ---
 
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+  <div class="role">
+    {% for staffer in instructors %}
+    {{ staffer }}
+    {% endfor %}
+  </div>
+</div>
+
 {: .highlight }
 > Welcome to the Course!
 
