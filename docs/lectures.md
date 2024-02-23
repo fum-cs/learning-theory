@@ -6,6 +6,10 @@ mathjax: true
 nav_order: 2
 ---
 
+{: .highlight }
+> Welcome to the Course!
+
+
 ## 1402/11/23
 
 ### Image Data
@@ -25,6 +29,8 @@ nav_order: 2
 ## GitHub Pages
 
 **HW2**{: .label .label-red }[Create your own GitHub page](./hws/GitHub-Pages), due date: 1402/12/04
+
+## 1402/12
 
 ## Regression & Neural Networks
 

@@ -5,6 +5,20 @@ nav_order: 1
 tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
+{: .mb-2 }
+Ferdowsi University of Mashhad, Spring 2024 (1402 SH)
+{: .mb-0 .fs-6 .text-grey-dk-000 }
+
+
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+  <div class="role">
+    {% for staffer in instructors %}
+    {{ staffer }}
+    {% endfor %}
+  </div>
+</div>
+
 # About
 {:.no_toc}
 
