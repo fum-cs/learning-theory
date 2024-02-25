@@ -39,11 +39,20 @@ nav_order: 2
 
 **HW2**{: .label .label-red }[Create your own GitHub page](./hws/GitHub-Pages), due date: 1402/12/04
 
-## 1402/12
+# 1402/12
 
 ## Regression & Neural Networks
 
-See [this Jupyter-book](https://fum-cs.github.io/neural-networks) about Neural Networks
+The initial section of the course focuses on **Neural Networks**, which can be accessed through [this Jupyter-book](https://fum-cs.github.io/neural-networks).
+
+# 1403 
+
+## Linear Models, Kernel Methods, Bayesian and Ensemble Learning
+
+The other section of the course focuses on other **Learning Concepts**, which can be accessed through [this Jupyter-book](https://fum-cs.github.io/machine-learning).
+
+
+
 
 <!-- **HW4**{: .label .label-red }[Linear regression](https://ml-lectures.org/docs/supervised_learning_wo_NNs/Linear-regression.html), due date: 1402/12/20
 
