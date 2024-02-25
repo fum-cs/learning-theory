@@ -43,4 +43,8 @@ nav_order: 2
 
 ## Regression & Neural Networks
 
-* See [this Jupyter-book](https://fum-cs.github.io/neural-networks) about Neural Networks
+See [this Jupyter-book](https://fum-cs.github.io/neural-networks) about Neural Networks
+
+<!-- **HW4**{: .label .label-red }[Linear regression](https://ml-lectures.org/docs/supervised_learning_wo_NNs/Linear-regression.html), due date: 1402/12/20
+
+**HW5**{: .label .label-red }[Linear regression, Regularization, Lasso](https://ml-course.github.io/master/labs/Lab%201a%20-%20Linear%20Models%20for%20Regression.html), due date: 1403/01/14 -->

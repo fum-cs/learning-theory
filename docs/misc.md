@@ -32,3 +32,7 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 - **HW**{: .label .label-red } TBA
 
 **EXAM**{: .label .label-purple }
+
+## Seminars
+
+- [ML2023 seminars](https://github.com/adasegroup/ML2023_seminars)
