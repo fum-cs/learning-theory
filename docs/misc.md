@@ -36,3 +36,8 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 ## Seminars
 
 - [ML2023 seminars](https://github.com/adasegroup/ML2023_seminars)
+- [Solving Kernel Ridge Regression with Gradient-Based Optimization Methods](https://arxiv.org/pdf/2306.16838.pdf)
+	* [GitHub](https://github.com/allerbo/gradient_based_kernel_regerssion)
+- [Function Aligned Regression: A Method Explicitly Learns Functional Derivatives from Data](https://arxiv.org/pdf/2402.06104.pdf)
+	* [GitHub](https://github.com/DixianZhu/FAR)
+	
