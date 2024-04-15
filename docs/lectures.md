@@ -43,7 +43,13 @@ nav_order: 2
 
 ## Regression & Neural Networks
 
-The initial section of the course focuses on **Neural Networks**, which can be accessed through [this Jupyter-book](https://fum-cs.github.io/neural-networks).
+The initial section of the course focuses on **Neural Networks**, which can be accessed through [this Jupyter-book](https://fum-cs.github.io/neural-networks) or the [PDF of the book](https://fumdrive.um.ac.ir/index.php/s/ic2s8AGyFSZox8r).
+
+## Regularization
+
+* [Regularization in Machine Learning](https://www.geeksforgeeks.org/regularization-in-machine-learning/)
+* [Regularization in Machine Learning (with Code Examples)](https://www.dataquest.io/blog/regularization-in-machine-learning/)
+* [Logistic regression with L2 regularization for binary classification](https://github.com/pickus91/Logistic-Regression-Classifier-with-L2-Regularization)
 
 # 1403 
 
