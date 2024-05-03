@@ -12,7 +12,7 @@ tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپ
 The objective of this assignment is to modify the existing incorrect implementation of kernel K-means in the provided GitHub repository and implement the kernel K-means algorithm from the Zaki data mining book (Chapter 13).
 
 ## Instructions:
-1. Clone the provided GitHub repository from: https://github.com/rarezhang/Kmeans-and-Kernel-Kmeans
+1. Clone [this GitHub repository](https://github.com/rarezhang/Kmeans-and-Kernel-Kmeans)
 2. Locate the incorrect implementation of kernel K-means in the repository.
 3. Understand the algorithm of kernel K-means from the Zaki data mining book (Chapter 13).
 4. Modify the existing code to implement the kernel K-means algorithm as per the book.
