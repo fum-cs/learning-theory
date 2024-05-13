@@ -63,3 +63,8 @@ The other section of the course focuses on other **Learning Concepts**, which ca
 <!-- **HW4**{: .label .label-red }[Linear regression](https://ml-lectures.org/docs/supervised_learning_wo_NNs/Linear-regression.html), due date: 1402/12/20
 
 **HW5**{: .label .label-red }[Linear regression, Regularization, Lasso](https://ml-course.github.io/master/labs/Lab%201a%20-%20Linear%20Models%20for%20Regression.html), due date: 1403/01/14 -->
+
+## Genetic Algorithm
+
+* [GA Slides](https://www.dropbox.com/scl/fi/dr2y0k2zgvy5ypyub3d2u/Genetic_Algorithms.pdf?rlkey=dtw9f2f2xnnkckk0bjbnswk89&dl=0)
+* [PyGAD: Python library for building the genetic algorithm](https://pygad.readthedocs.io/en/latest/)
