@@ -66,5 +66,7 @@ The other section of the course focuses on other **Learning Concepts**, which ca
 
 ## Genetic Algorithm
 
-* [GA Slides](https://www.dropbox.com/scl/fi/dr2y0k2zgvy5ypyub3d2u/Genetic_Algorithms.pdf?rlkey=dtw9f2f2xnnkckk0bjbnswk89&dl=0)
-* [PyGAD: Python library for building the genetic algorithm](https://pygad.readthedocs.io/en/latest/)
+- [GA Slides](https://www.dropbox.com/scl/fi/dr2y0k2zgvy5ypyub3d2u/Genetic_Algorithms.pdf?rlkey=dtw9f2f2xnnkckk0bjbnswk89&dl=0)
+- [PyGAD: Python library for building the genetic algorithm](https://pygad.readthedocs.io/en/latest/)
+- GA Book: [Genetic Algorithms with Python](https://1drv.ms/b/s!AmjylFwPahYxgZYlVQRNrdSnez5J2A?e=pVh82p)
+  - [Github](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
