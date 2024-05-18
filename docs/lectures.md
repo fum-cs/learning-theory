@@ -72,4 +72,10 @@ The other section of the course focuses on other **Learning Concepts**, which ca
 
 - GA Book: [Genetic Algorithms with Python](https://1drv.ms/b/s!AmjylFwPahYxgZYlVQRNrdSnez5J2A?e=pVh82p)
   - [Github](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-  - **Colab**{: .label .label-green }[A Sample without unittest](https://colab.research.google.com/github/fum-cs/learning-theory/blob/main/code/wo-unittest.ipynb)
+  - **Colab**{: .label .label-green }[A GA Sample without unittest](https://colab.research.google.com/github/fum-cs/learning-theory/blob/main/code/ga-wo-unittest.ipynb)
+
+- Python unittest (Optional)
+  - [Persian Tutorial](https://www.mongard.ir/courses/unittest/episode/520/unittest-module/)
+  - [unittest sample, onlinegdb](https://onlinegdb.com/T0gzy_Ta0)
+  - **Colab**{: .label .label-green }[unittest sample](https://colab.research.google.com/github/fum-cs/learning-theory/blob/main/code/unittest-sample.ipynb)
+  - [quera.org](https://quera.org/course/assignments/65059/problems)
